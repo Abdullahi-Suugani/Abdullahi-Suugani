@@ -8,36 +8,17 @@ I am a self-taught developer passionate about technology, AI, and software engin
 
 ## Technical Stack
 
-**Languages**
-- TypeScript
-- Python
-- JavaScript
+**Languages:** TypeScript · Python · JavaScript
 
-**Backend**
-- Node.js
-- Express.js
-- FastAPI
+**Backend:** Node.js · Express.js · FastAPI
 
-**Frontend**
-- React.js
-- Next.js
-- Tailwind CSS
+**Frontend:** React.js · Next.js · Tailwind CSS
 
-**Database**
-- PostgreSQL
-- MongoDB
-- Prisma ORM
+**Database:** PostgreSQL · MongoDB · Prisma ORM
 
-**AI Engineering**
-- LLM Applications
-- RAG Systems
-- Embeddings & Semantic Search
-- AI Agents
+**AI Engineering:** LLM Applications · RAG Systems · Embeddings & Semantic Search · AI Agents
 
-**Tools**
-- Git & GitHub
-- Docker
-- VS Code
+**Tools:** Git & GitHub · Docker · VS Code
 
 ---
 
