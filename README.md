@@ -1,8 +1,12 @@
 # Abdullahi Aden Abdi
 
-### AI & Software Engineering
+### AI & Software Engineering | AI-Powered Applications | Backend Engineer
 
-I am a self-taught developer passionate about technology, AI, and software engineering. My journey is built on curiosity, consistency, and continuous learning. I enjoy exploring new technologies, building practical projects, and improving my skills through hands-on experience. I am always learning, growing, and working toward becoming a better engineer.
+I build modern software applications and AI-powered solutions that solve real-world problems.
+
+My focus is on full-stack development, backend engineering, AI integration, LLM applications, RAG systems, and workflow automation. I enjoy turning ideas into practical, reliable, and scalable software.
+
+I am a self-taught developer who believes in continuous learning, building real projects, and growing through hands-on experience.
 
 ---
 
