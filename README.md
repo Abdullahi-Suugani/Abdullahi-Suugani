@@ -1,16 +1,8 @@
 # Abdullahi Aden Abdi
 
----
-
 ### AI & Software Engineering
 
-I am a self-taught developer and Computer Science student passionate about software engineering and artificial intelligence. My learning journey is driven by curiosity, consistency, and a strong interest in understanding how technology works. I continuously develop my skills through independent learning, practical projects, and exploring new technologies.
-
-I focus on building modern web applications and scalable backend systems using TypeScript, Python, React, Next.js, Node.js, and FastAPI. I enjoy designing APIs, working with databases, and developing complete solutions from frontend to backend. My goal is to write clean, maintainable, secure, and efficient code.
-
-My interests extend to AI Engineering, particularly Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), embeddings, semantic search, and AI agents. I enjoy exploring how artificial intelligence can be integrated into software applications to solve real-world problems. I am continuously learning and experimenting with modern AI technologies.
-
-I believe that becoming a great engineer comes through continuous learning, hands-on experience, and solving real problems. I enjoy building projects, learning from technical challenges, and collaborating with other developers. I am always open to opportunities where I can contribute, share knowledge, and grow as an engineer.
+I am a self-taught developer passionate about technology, AI, and software engineering. My journey is built on curiosity, consistency, and continuous learning. I enjoy exploring new technologies, building practical projects, and improving my skills through hands-on experience. I am always learning, growing, and working toward becoming a better engineer.
 
 ---
 
