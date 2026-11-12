@@ -29,4 +29,4 @@ I am a self-taught developer who believes in continuous learning, building real 
 ## Connect
 
 - LinkedIn: [Abdullahi Aden Abdi](https://www.linkedin.com/in/abdullahi-aden-abdi/)
-- Website: [abdullahi-adan.vercel.app](https://abdullahi-adan.vercel.app/)
+
